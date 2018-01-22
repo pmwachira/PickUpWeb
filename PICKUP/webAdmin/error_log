@@ -1,0 +1,60 @@
+[22-Nov-2016 15:55:44 Africa/Nairobi] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/noshybak/public_html/webAdmin/connect.php on line 6
+[22-Nov-2016 15:57:24 Africa/Nairobi] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/noshybak/public_html/webAdmin/connect.php on line 6
+[22-Nov-2016 15:57:32 Africa/Nairobi] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/noshybak/public_html/webAdmin/connect.php on line 6
+[22-Nov-2016 15:57:35 Africa/Nairobi] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/noshybak/public_html/webAdmin/connect.php on line 6
+[22-Nov-2016 15:59:46 Africa/Nairobi] PHP Notice:  Undefined index: name in /home/noshybak/public_html/webAdmin/fetchdetails.php on line 14
+[22-Nov-2016 16:00:02 Africa/Nairobi] PHP Notice:  Undefined index: name in /home/noshybak/public_html/webAdmin/fetchdetails.php on line 14
+[22-Nov-2016 16:03:15 Africa/Nairobi] PHP Notice:  Undefined index: name in /home/noshybak/public_html/webAdmin/fetchdetails.php on line 14
+[22-Nov-2016 16:03:23 Africa/Nairobi] PHP Notice:  Undefined index: name in /home/noshybak/public_html/webAdmin/fetchdetails.php on line 14
+[22-Nov-2016 16:20:01 Africa/Nairobi] PHP Notice:  Undefined index: name in /home/noshybak/public_html/webAdmin/fetchdetails.php on line 14
+[22-Nov-2016 16:20:23 Africa/Nairobi] PHP Notice:  Undefined index: name in /home/noshybak/public_html/webAdmin/fetchdetails.php on line 14
+[22-Nov-2016 16:20:54 Africa/Nairobi] PHP Notice:  Undefined index: name in /home/noshybak/public_html/webAdmin/fetchdetails.php on line 14
+[22-Nov-2016 16:21:42 Africa/Nairobi] PHP Notice:  Undefined index: name in /home/noshybak/public_html/webAdmin/fetchdetails.php on line 14
+[22-Nov-2016 16:21:53 Africa/Nairobi] PHP Notice:  Undefined index: name in /home/noshybak/public_html/webAdmin/fetchdetails.php on line 14
+[22-Nov-2016 16:22:05 Africa/Nairobi] PHP Notice:  Undefined index: name in /home/noshybak/public_html/webAdmin/fetchdetails.php on line 14
+[22-Nov-2016 16:23:35 Africa/Nairobi] PHP Notice:  Undefined index: name in /home/noshybak/public_html/webAdmin/fetchdetails.php on line 14
+[22-Nov-2016 16:23:42 Africa/Nairobi] PHP Notice:  Undefined index: name in /home/noshybak/public_html/webAdmin/fetchdetails.php on line 14
+[22-Nov-2016 16:24:10 Africa/Nairobi] PHP Notice:  Undefined index: name in /home/noshybak/public_html/webAdmin/fetchdetails.php on line 14
+[22-Nov-2016 16:24:44 Africa/Nairobi] PHP Notice:  Undefined index: name in /home/noshybak/public_html/webAdmin/fetchdetails.php on line 14
+[22-Nov-2016 16:25:00 Africa/Nairobi] PHP Notice:  Undefined index: name in /home/noshybak/public_html/webAdmin/fetchdetails.php on line 14
+[22-Nov-2016 16:30:40 Africa/Nairobi] PHP Notice:  Undefined index: name in /home/noshybak/public_html/webAdmin/fetchdetails.php on line 14
+[22-Nov-2016 16:31:14 Africa/Nairobi] PHP Notice:  Undefined index: name in /home/noshybak/public_html/webAdmin/fetchdetails.php on line 14
+[22-Nov-2016 16:31:22 Africa/Nairobi] PHP Notice:  Undefined index: name in /home/noshybak/public_html/webAdmin/fetchdetails.php on line 14
+[22-Nov-2016 16:32:56 Africa/Nairobi] PHP Notice:  Undefined index: name in /home/noshybak/public_html/webAdmin/fetchdetails.php on line 14
+[22-Nov-2016 16:33:10 Africa/Nairobi] PHP Notice:  Undefined index: name in /home/noshybak/public_html/webAdmin/fetchdetails.php on line 14
+[22-Nov-2016 16:33:18 Africa/Nairobi] PHP Notice:  Undefined index: name in /home/noshybak/public_html/webAdmin/fetchdetails.php on line 14
+[22-Nov-2016 16:35:56 Africa/Nairobi] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/noshybak/public_html/webAdmin/connect.php on line 6
+[22-Nov-2016 16:37:43 Africa/Nairobi] PHP Notice:  Undefined index: name in /home/noshybak/public_html/webAdmin/fetchdetails.php on line 14
+[22-Nov-2016 16:40:03 Africa/Nairobi] PHP Notice:  Undefined index: name in /home/noshybak/public_html/webAdmin/fetchdetails.php on line 14
+[22-Nov-2016 16:41:33 Africa/Nairobi] PHP Notice:  Undefined index: name in /home/noshybak/public_html/webAdmin/fetchdetails.php on line 14
+[22-Nov-2016 16:42:17 Africa/Nairobi] PHP Notice:  Undefined index: name in /home/noshybak/public_html/webAdmin/fetchdetails.php on line 14
+[22-Nov-2016 16:43:31 Africa/Nairobi] PHP Notice:  Undefined index: name in /home/noshybak/public_html/webAdmin/fetchdetails.php on line 14
+[22-Nov-2016 16:44:54 Africa/Nairobi] PHP Notice:  Undefined index: name in /home/noshybak/public_html/webAdmin/fetchdetails.php on line 14
+[22-Nov-2016 16:45:36 Africa/Nairobi] PHP Notice:  Undefined index: name in /home/noshybak/public_html/webAdmin/fetchdetails.php on line 14
+[22-Nov-2016 16:45:43 Africa/Nairobi] PHP Notice:  Undefined index: name in /home/noshybak/public_html/webAdmin/fetchdetails.php on line 14
+[22-Nov-2016 16:47:07 Africa/Nairobi] PHP Notice:  Undefined index: name in /home/noshybak/public_html/webAdmin/fetchdetails.php on line 14
+[23-Nov-2016 11:03:07 Africa/Nairobi] PHP Notice:  Undefined index: name in /home/noshybak/public_html/webAdmin/fetchdetails.php on line 14
+[23-Nov-2016 11:03:22 Africa/Nairobi] PHP Notice:  Undefined index: name in /home/noshybak/public_html/webAdmin/fetchdetails.php on line 14
+[23-Nov-2016 11:03:29 Africa/Nairobi] PHP Notice:  Undefined index: name in /home/noshybak/public_html/webAdmin/fetchdetails.php on line 14
+[23-Nov-2016 11:03:32 Africa/Nairobi] PHP Notice:  Undefined index: name in /home/noshybak/public_html/webAdmin/fetchdetails.php on line 14
+[23-Nov-2016 11:03:38 Africa/Nairobi] PHP Notice:  Undefined index: name in /home/noshybak/public_html/webAdmin/fetchdetails.php on line 14
+[23-Nov-2016 12:56:21 Africa/Nairobi] PHP Notice:  Undefined index: name in /home/noshybak/public_html/webAdmin/fetchdetails.php on line 14
+[23-Nov-2016 12:56:41 Africa/Nairobi] PHP Notice:  Undefined index: name in /home/noshybak/public_html/webAdmin/fetchdetails.php on line 14
+[23-Nov-2016 13:03:45 Africa/Nairobi] PHP Notice:  Undefined index: name in /home/noshybak/public_html/webAdmin/fetchdetails.php on line 14
+[23-Nov-2016 13:04:09 Africa/Nairobi] PHP Notice:  Undefined index: name in /home/noshybak/public_html/webAdmin/fetchdetails.php on line 14
+[23-Nov-2016 14:10:42 Africa/Nairobi] PHP Notice:  Undefined variable: transArray in /home/noshybak/public_html/webAdmin/customerpending.php on line 129
+[23-Nov-2016 14:42:41 Africa/Nairobi] PHP Notice:  Undefined variable: engagementCOunt in /home/noshybak/public_html/webAdmin/topnav.php on line 10
+[23-Nov-2016 14:49:50 Africa/Nairobi] PHP Notice:  Undefined variable: engagementCOunt in /home/noshybak/public_html/webAdmin/topnav.php on line 10
+[23-Nov-2016 14:49:53 Africa/Nairobi] PHP Notice:  Undefined variable: engagementCOunt in /home/noshybak/public_html/webAdmin/topnav.php on line 10
+[23-Nov-2016 14:49:53 Africa/Nairobi] PHP Notice:  Undefined variable: transArray in /home/noshybak/public_html/webAdmin/customerpending.php on line 129
+[23-Nov-2016 14:50:09 Africa/Nairobi] PHP Notice:  Undefined variable: engagementCOunt in /home/noshybak/public_html/webAdmin/topnav.php on line 10
+[29-Nov-2016 22:27:59 Africa/Nairobi] PHP Notice:  Undefined variable: driversListening in /home/noshybak/public_html/PICKUP/webAdmin/listeningDrivers.php on line 137
+[09-Dec-2016 15:38:52 Africa/Nairobi] PHP Notice:  Undefined variable: engagementCOunt in /home/noshybak/public_html/PICKUP/webAdmin/topnav.php on line 10
+[09-Dec-2016 15:39:50 Africa/Nairobi] PHP Notice:  Undefined variable: engagementCOunt in /home/noshybak/public_html/PICKUP/webAdmin/topnav.php on line 10
+[09-Dec-2016 15:39:55 Africa/Nairobi] PHP Notice:  Undefined variable: engagementCOunt in /home/noshybak/public_html/PICKUP/webAdmin/topnav.php on line 10
+[09-Dec-2016 15:40:12 Africa/Nairobi] PHP Notice:  Undefined variable: engagementCOunt in /home/noshybak/public_html/PICKUP/webAdmin/topnav.php on line 10
+[09-Dec-2016 15:40:12 Africa/Nairobi] PHP Notice:  Undefined variable: engagementsArray in /home/noshybak/public_html/PICKUP/webAdmin/custprogress.php on line 147
+[09-Dec-2016 15:40:22 Africa/Nairobi] PHP Notice:  Undefined variable: engagementCOunt in /home/noshybak/public_html/PICKUP/webAdmin/topnav.php on line 10
+[09-Dec-2016 15:40:48 Africa/Nairobi] PHP Notice:  Undefined variable: engagementCOunt in /home/noshybak/public_html/PICKUP/webAdmin/topnav.php on line 10
+[09-Dec-2016 15:40:58 Africa/Nairobi] PHP Notice:  Undefined variable: engagementCOunt in /home/noshybak/public_html/PICKUP/webAdmin/topnav.php on line 10
+[15-Dec-2016 16:26:01 Africa/Nairobi] PHP Notice:  Undefined variable: driversListening in /home/noshybak/public_html/PICKUP/webAdmin/listeningDrivers.php on line 137

@@ -1,0 +1,26 @@
+
+[07-Dec-2016 16:06:07 Africa/Nairobi] PHP Notice:  Undefined index: desc in /home/noshybak/public_html/PICKUP/include/payments/pesapal-iframe.php on line 28
+[07-Dec-2016 16:07:49 Africa/Nairobi] PHP Notice:  Undefined index: desc in /home/noshybak/public_html/PICKUP/include/payments/pesapal-iframe.php on line 28
+[07-Dec-2016 16:10:15 Africa/Nairobi] PHP Notice:  Undefined index: desc in /home/noshybak/public_html/PICKUP/include/payments/pesapal-iframe.php on line 28
+[07-Dec-2016 16:19:34 Africa/Nairobi] PHP Notice:  Undefined index: amount in /home/noshybak/public_html/PICKUP/include/payments/pesapal-iframe.php on line 25
+[07-Dec-2016 16:19:34 Africa/Nairobi] PHP Notice:  Undefined index: description in /home/noshybak/public_html/PICKUP/include/payments/pesapal-iframe.php on line 28
+[07-Dec-2016 16:19:34 Africa/Nairobi] PHP Notice:  Undefined index: type in /home/noshybak/public_html/PICKUP/include/payments/pesapal-iframe.php on line 29
+[07-Dec-2016 16:19:34 Africa/Nairobi] PHP Notice:  Undefined index: reference in /home/noshybak/public_html/PICKUP/include/payments/pesapal-iframe.php on line 30
+[07-Dec-2016 16:19:34 Africa/Nairobi] PHP Notice:  Undefined index: first_name in /home/noshybak/public_html/PICKUP/include/payments/pesapal-iframe.php on line 31
+[07-Dec-2016 16:19:34 Africa/Nairobi] PHP Notice:  Undefined index: last_name in /home/noshybak/public_html/PICKUP/include/payments/pesapal-iframe.php on line 32
+[07-Dec-2016 16:19:34 Africa/Nairobi] PHP Notice:  Undefined index: email in /home/noshybak/public_html/PICKUP/include/payments/pesapal-iframe.php on line 33
+[07-Dec-2016 16:21:09 Africa/Nairobi] PHP Notice:  Undefined index: amount in /home/noshybak/public_html/PICKUP/include/payments/pesapal-iframe.php on line 25
+[07-Dec-2016 16:21:09 Africa/Nairobi] PHP Notice:  Undefined index: description in /home/noshybak/public_html/PICKUP/include/payments/pesapal-iframe.php on line 28
+[07-Dec-2016 16:21:09 Africa/Nairobi] PHP Notice:  Undefined index: type in /home/noshybak/public_html/PICKUP/include/payments/pesapal-iframe.php on line 29
+[07-Dec-2016 16:21:09 Africa/Nairobi] PHP Notice:  Undefined index: reference in /home/noshybak/public_html/PICKUP/include/payments/pesapal-iframe.php on line 30
+[07-Dec-2016 16:21:09 Africa/Nairobi] PHP Notice:  Undefined index: first_name in /home/noshybak/public_html/PICKUP/include/payments/pesapal-iframe.php on line 31
+[07-Dec-2016 16:21:09 Africa/Nairobi] PHP Notice:  Undefined index: last_name in /home/noshybak/public_html/PICKUP/include/payments/pesapal-iframe.php on line 32
+[07-Dec-2016 16:21:09 Africa/Nairobi] PHP Notice:  Undefined index: email in /home/noshybak/public_html/PICKUP/include/payments/pesapal-iframe.php on line 33
+[07-Dec-2016 16:22:44 Africa/Nairobi] PHP Notice:  Undefined index: amount in /home/noshybak/public_html/PICKUP/include/payments/pesapal-iframe.php on line 25
+[07-Dec-2016 16:22:44 Africa/Nairobi] PHP Notice:  Undefined index: description in /home/noshybak/public_html/PICKUP/include/payments/pesapal-iframe.php on line 28
+[07-Dec-2016 16:22:44 Africa/Nairobi] PHP Notice:  Undefined index: type in /home/noshybak/public_html/PICKUP/include/payments/pesapal-iframe.php on line 29
+[07-Dec-2016 16:22:44 Africa/Nairobi] PHP Notice:  Undefined index: reference in /home/noshybak/public_html/PICKUP/include/payments/pesapal-iframe.php on line 30
+[07-Dec-2016 16:22:44 Africa/Nairobi] PHP Notice:  Undefined index: first_name in /home/noshybak/public_html/PICKUP/include/payments/pesapal-iframe.php on line 31
+[07-Dec-2016 16:22:44 Africa/Nairobi] PHP Notice:  Undefined index: last_name in /home/noshybak/public_html/PICKUP/include/payments/pesapal-iframe.php on line 32
+[07-Dec-2016 16:22:44 Africa/Nairobi] PHP Notice:  Undefined index: email in /home/noshybak/public_html/PICKUP/include/payments/pesapal-iframe.php on line 33
+[07-Dec-2016 16:45:15 Africa/Nairobi] PHP Notice:  Undefined index: last_name in /home/noshybak/public_html/PICKUP/include/payments/pesapal-iframe.php on line 32
